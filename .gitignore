@@ -1,0 +1,5 @@
+# M'mawa Seed Solutions Ltd - Git Ignore
+.gemini/
+.idea/
+.vscode/
+*.log
